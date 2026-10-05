@@ -2,6 +2,8 @@
 
 A polished, responsive digital love-letter / memory website built with plain HTML, CSS and JavaScript.
 
+## 🌐 Live Demo
+[https://developxyuvraj.github.io/Lovee_Buddy/](https://developxyuvraj.github.io/Lovee_Buddy/)
 ## Run
 
 1. Keep the folder structure exactly as provided.
